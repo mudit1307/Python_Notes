@@ -1,0 +1,5 @@
+Harshit's salary is 100
+mudit's salary is 300
+yash's salary is 600
+vikash's salary is 2000
+vishal's salary is 440
